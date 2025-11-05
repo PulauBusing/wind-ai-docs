@@ -1,0 +1,23 @@
+{
+  "name": "wind-ai-knowledge-base",
+  "version": "1.0.0",
+  "description": "基于Docsify构建的知识库",
+  "main": "index.html",
+  "scripts": {
+    "dev": "docsify serve .",
+    "serve": "docsify serve . --port 3000",
+    "preview": "docsify serve . --open"
+  },
+  "keywords": [
+    "docsify",
+    "documentation",
+    "knowledge-base",
+    "docs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
+

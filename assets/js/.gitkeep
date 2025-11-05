@@ -1,0 +1,9 @@
+# 自定义脚本目录
+
+在此目录下添加自定义JavaScript文件。
+
+例如：
+- custom.js - 自定义脚本
+- plugins.js - 自定义插件
+- utils.js - 工具函数
+
