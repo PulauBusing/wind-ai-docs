@@ -20,10 +20,13 @@
     * [ChatGPT指南](ai/tools/chatgpt.md)
     * [Cursor编程](ai/tools/cursor.md)
     * [Midjourney绘画](ai/tools/midjourney.md)
+    * [Stable Diffusion](ai/tools/stable-diffusion.md)
   * AI前沿
     * [前沿动态](ai/frontier/README.md)
   * AI应用
     * [应用场景](ai/applications/README.md)
+    * [AI辅助编程](ai/applications/coding.md)
+    * [项目实战](ai/applications/projects.md)
 
 * 教程
   * [入门教程](tutorial/README.md)
