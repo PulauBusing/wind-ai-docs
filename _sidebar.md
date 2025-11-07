@@ -12,10 +12,14 @@
   * AI基础
     * [什么是AI](ai/fundamentals/what-is-ai.md)
     * [机器学习](ai/fundamentals/machine-learning.md)
+    * [提示词工程](ai/fundamentals/prompt-engineering.md)
   * AI大模型
     * [大模型概述](ai/models/README.md)
   * AI工具
     * [工具大全](ai/tools/README.md)
+    * [ChatGPT指南](ai/tools/chatgpt.md)
+    * [Cursor编程](ai/tools/cursor.md)
+    * [Midjourney绘画](ai/tools/midjourney.md)
   * AI前沿
     * [前沿动态](ai/frontier/README.md)
   * AI应用
